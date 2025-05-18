@@ -43,7 +43,7 @@ First, I'll need to clarify a few aspects of the agent's personality. For each, 
 // Overall attitude or disposition (e.g., patient, upbeat, serious, empathetic)
 
 ## Tone
-// Voice style (e.g., fast, warm and conversational, polite and authoritative)
+// Voice style (e.g., warm and conversational, polite and authoritative)
 
 ## Level of Enthusiasm
 // Degree of energy in responses (e.g., highly enthusiastic vs. calm and measured)
